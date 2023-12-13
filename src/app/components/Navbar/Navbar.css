@@ -1,0 +1,26 @@
+.navbar {   
+    background-color: #8761FF;
+    padding: 16px 24px;
+    border-radius: 24px;
+    cursor: pointer;
+}
+
+.links {
+    color: #C6D7FF;
+    font-size: 16px;
+
+}
+
+.resume {
+    border: 1px solid #C6D7FF;
+    padding: 12px 24px;
+    color: #C6D7FF;
+    border-radius: 12px;
+}
+
+.talk-to-me-btn {
+    background: #C6D7FF;
+    border-radius: 12px;
+    padding: 12px 24px;
+    color: #8761FF;
+}
